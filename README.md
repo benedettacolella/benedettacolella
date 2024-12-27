@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**miskassi/miskassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m [Your Name], a **Computer Science student** at the University of Salerno, passionate about learning and building software solutions. I enjoy working on both **frontend** and **backend** development and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: C, Java, Java Spring, JavaScript
+- **Frontend**: HTML, CSS, React
+- **Backend**: Java Spring, MySQL Workbench, MongoDB (remote databases)
+- **IDEs**: Visual Studio, Eclipse, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m Learning
+- Continuously improving my skills in **web development** and **database management**.
+- Exploring **DevOps** tools and practices to enhance my workflows.
+
+## 📚 About Me
+- 💻 I’m currently honing my skills in both **frontend** and **backend** development.
+- 🌟 I enjoy working on personal projects that challenge me and allow me to grow.
+- 🎓 I study at the **University of Salerno**, where I’m deepening my knowledge of computer science.
+
+## 📫 Connect with Me
+- LinkedIn: [Benedetta Colella](www.linkedin.com/in/benedetta-colella-5608a028a)
+
+---
+
+Thank you for visiting my profile! ✨ Feel free to explore my repositories or get in touch. 
