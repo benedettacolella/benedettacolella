@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m [Your Name], a **Computer Science student** at the University of Salerno, passionate about learning and building software solutions. I enjoy working on both **frontend** and **backend** development and exploring new technologies.
+I’m Benedetta Colella, a **Computer Science student** at the University of Salerno, passionate about learning and building software solutions. I enjoy working on both **frontend** and **backend** development and exploring new technologies.
 
 ## 🔧 Technologies & Tools
 - **Languages**: C, Java, Java Spring, JavaScript
