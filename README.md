@@ -16,10 +16,7 @@ I’m Benedetta Colella, a **Computer Science student** at the University of Sal
 - 💻 I’m currently honing my skills in both **frontend** and **backend** development.
 - 🌟 I enjoy working on personal projects that challenge me and allow me to grow.
 - 🎓 I study at the **University of Salerno**, where I’m deepening my knowledge of computer science.
-
-## 📫 Connect with Me
-- LinkedIn: [Benedetta Colella](www.linkedin.com/in/benedetta-colella-5608a028a)
-
+- 
 ---
 
 Thank you for visiting my profile! ✨ Feel free to explore my repositories or get in touch. 
